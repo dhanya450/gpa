@@ -1,8 +1,3 @@
-/*This C++ PROGRAM is developed by NemonET TYP and 
-special right is given to TEAM TYP for educational purpose  */
-//Don't copy source code without permission
-
-
 #include <iostream>
 #include <stdlib.h>
 
@@ -22,7 +17,7 @@ int main()
     cout<<"            MENU:"<<endl;
     cout<<"                   1. Calculate GPA (Grade Point Average)"<<endl;
     cout<<"                   2. Calculate CGPA (Cummulative Grade Point Average)"<<endl;
-    cout<<"                   3. Method that is applied here for calclating GPA & CGPA"<<endl;
+    cout<<"                   3. Method that is applied here for calculating GPA & CGPA"<<endl;
     cout<<"                   4. Exit Application"<<endl;
     cout<<"--------------------------------------------------------------------------"<<endl;
     sub:
